@@ -138,19 +138,7 @@ CREATE TABLE zepto (
 
       - Import the dataset (convert to UTF-8 if necessary)
 
-4. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
 
 ## 👨‍💻 About the Author
-Hey, I’m Kunal Jawalkar — a Data Analyst & PF trainer.
-I teach data usage into simple, practical way that actually helps you understand in day to day and PF trainer.
-
-💼 LinkedIn: [Kunal Jawalkar](https://www.linkedin.com/in/kunal-jawalkar-161686150)
-- Let’s connect all professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
+Hey, I’m Vennela Lakavath — a Data Analyst.
 
